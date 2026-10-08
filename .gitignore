@@ -1,0 +1,14 @@
+# Vivado auto-generated folders & cache
+*.log
+*.jou
+*.str
+*.pb
+*.wdb
+*.dir/
+.Xil/
+xsim.dir/
+hd_visual/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
