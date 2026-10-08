@@ -1,4 +1,11 @@
-# Vivado auto-generated folders & cache
+# Vivado auto-generated build caches and temp folders
+OmniALU-32.cache/
+OmniALU-32.hw/
+OmniALU-32.ip_user_files/
+OmniALU-32.sim/
+OmniALU-32.srcs/
+
+# Vivado log and journal files
 *.log
 *.jou
 *.str
@@ -7,8 +14,7 @@
 *.dir/
 .Xil/
 xsim.dir/
-hd_visual/
 
-# Windows system files
+# System files
 Thumbs.db
 Desktop.ini
